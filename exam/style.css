@@ -1,0 +1,384 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+header {
+    background: url(./img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    background-color: #1a1a1aa0;
+}
+
+.nav1 {
+    margin-right: 26px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: 23px;
+    height: 23px;
+}
+
+.nomer {
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+#logos {
+    margin-top: 20px;
+}
+
+.navlogo {
+    margin-right: 26px;
+}
+
+.logo {
+    margin-top: 18px;
+}
+
+.hardp {
+    margin-top: 78px;
+    font-size: 41px;
+    line-height: 48px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.hardh {
+    font-size: 19px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
+
+.hardb {
+    background: transparent;
+    width: 165px;
+    height: 55px;
+    border-radius: 27px;
+    border: 2px solid #C80000;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 39px;
+    margin-bottom: 181px;
+}
+
+/*------------------------------------------------------ header end-------------------------------------------------------- */
+/*------------------------------------------------------ section1 start-------------------------------------------------------- */
+.section1 {
+    padding-bottom: 50px;
+    background-color: #373737;
+}
+
+.cardp {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.cardp_p {
+    font-size: 17px;
+    line-height: 21px;
+    color: darkgray;
+}
+
+.pichoq {
+    margin-bottom: 31px;
+}
+
+#car {
+    color: #FF0000;
+}
+
+.cardl {
+    position: relative;
+}
+
+.card1 {
+    margin-top: 80px;
+}
+
+.card1_p {
+    bottom: 0px;
+    margin-left: 26px;
+    position: absolute;
+    font-size: 17px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.cardx {
+    margin-top: 85px;
+    border-radius: 14px;
+    background-color: #272727;
+}
+
+.pich1 {
+    padding: 95px 11px 82px 11px;
+}
+
+.carda_p {
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.uf {
+    font-size: 14px;
+    line-height: 28px;
+    color: gray;
+}
+
+.qizil {
+    color: #FF3232;
+    margin-left: 28px;
+}
+
+.pich2 {
+    padding: 131px 8px 104px 16px;
+}
+
+.tayor {
+    margin-top: 85px;
+}
+
+.uzun {
+    margin-top: 50px;
+    font-size: 27px;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.qora {
+    margin-top: 17px;
+    border: none;
+    border-radius: 6px;
+    width: 276px;
+    height: 59px;
+    background-color: #272727;
+    padding-left: 30px;
+    margin-bottom: 49px;
+}
+
+.section2 {
+    background-color: #373737;
+    padding-bottom: 100px;
+}
+
+.bootom {
+    font-size: 17px;
+    line-height: 42px;
+    color: #FFFFFF;
+    border-bottom: 3px solid #C80000;
+}
+
+.po {
+    margin-left: 50px;
+    font-size: 17px;
+    line-height: 42px;
+    color: gray;
+}
+
+.section3 {
+    background-color: #373737;
+    padding-bottom: 50px;
+}
+
+.too {
+    margin-left: 50px;
+    font-size: 35px;
+    line-height: 42px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.to {
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 51px;
+    margin-left: 50px;
+    color: #9B9B9B;
+}
+
+.so {
+    margin-top: 39px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #9B9B9B;
+}
+
+.soo {
+    margin-top: 27px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #9B9B9B;
+}
+
+.soooo {
+    margin-top: 43px;
+    font-size: 28px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+
+.ufff {
+    margin-top: 50px;
+}
+
+.section4 {
+    background-color: #373737;
+}
+
+.vse {
+    font-size: 35px;
+    line-height: 41px;
+    color: #FFFFFF;
+    margin-bottom: 37px;
+}
+
+.cart {
+    position: relative;
+}
+
+.ul {
+    left: 40px;
+    bottom: 10px;
+    position: absolute;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.uul {
+    left: 40px;
+    bottom: 10px;
+    position: absolute;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #272727;
+}
+
+.foot1 {
+
+    margin-top: 44px;
+}
+
+.footp {
+    margin-left: 26px;
+    margin-top: 51px;
+    font-size: 13px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.footg {
+    font-size: 13px;
+line-height: 20px;
+    color: #ffffff96;
+}
+
+.footg2 {
+    font-size: 13px;
+line-height: 20px;
+    margin-top: 30px;
+    color:  #ffffff96;
+}
+
+.inf {
+    margin-left: 35px;
+    margin-top: 47px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.list {
+    display: flex;
+    margin-bottom: 0;
+}
+
+.list_item {
+    margin-right: 25px;
+    list-style: none;
+    color: gray;
+    font-size: 13px;
+    line-height: 24px;
+}
+
+#yy {
+    margin-top: 60px;
+    margin-right: 23px;
+}
+
+.kon {
+    margin-top: 47px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.teli {
+    margin-top: 23px;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.email {
+    margin-top: 9px;
+    font-size: 14px;
+    line-height: 19px;
+    color: gray;
+    margin-bottom: 0;
+}
+
+.vaqt {
+    margin-top: 30px;
+    font-size: 14px;
+    line-height: 19px;
+    color: gray;
+}
+.iiii{
+    font-size: 14px;
+line-height: 19px;
+color: gray;
+margin-bottom: 32px;
+}
+.footer2{
+    background-color: #373737;
+}
+.big_text{
+    margin-top: 32px;
+    font-size: 12px;
+line-height: 21px;
+color: gray;
+margin-bottom: 35px;
+}
+.endi{
+    border-top: 2px solid rgba(255, 255, 255, 0.538);
+}
+#ehh{
+    margin-top: 70px;
+}
+.zzz{
+    margin-top: 60px;
+    border-top: 4px dashed #FFFFFF;
+    margin-bottom: -50px;
+}
